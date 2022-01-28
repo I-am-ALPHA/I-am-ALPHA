@@ -7,7 +7,7 @@
  🌱 NodeJS
  🍂 Javascript
  📫 Html
- 💾 CSS
+ 💾 C++
 ```
 ##
 <p align="center">
