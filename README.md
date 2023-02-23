@@ -1,10 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
+<h1 align='center'>Visitor Count</h1>
+
 <p align="center">
-  <a href="https://github.com/I-am-ALPHA">
-    <img src="https://komarev.com/ghpvc/?username=I-am-ALPHA&label=Profile%20views&color=blue&label=Profile+Views&style=plastic">
-    <br>
+<img src="https://visitor-count-b8lb.vercel.app/api/MohamedBechirMejri/visitor-count" />
 </p>
+
   </a>
 </p>
 
