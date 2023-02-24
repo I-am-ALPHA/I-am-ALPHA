@@ -13,4 +13,4 @@
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JS" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="AWS" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="NPM" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Google cloud" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/dockerhub.svg" alt="Docker" style="vertical-align:top; margin:4px">
  </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/Bottom.svg"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/hanumanthaX/Temp/main/waves.svg"> </p>
